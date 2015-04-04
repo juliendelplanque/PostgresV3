@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"default" : "kb 8/4/2010 20:31",
+		"defaultConnectionArguments" : "ul 8/30/2009 02:54",
+		"reset" : "ul 8/30/2009 02:54",
+		"startUp:" : "ul 8/30/2009 02:54" },
+	"instance" : {
+		"connectionArguments" : "ul 8/30/2009 03:03",
+		"connectionArguments:" : "ul 8/30/2009 03:03",
+		"createNewConnection" : "kb 9/15/2009 18:02",
+		"currentConnections" : "ul 4/13/2010 23:36",
+		"executeQuery:" : "klub 5/21/2014 16:15",
+		"executeQuery:rowClass:" : "klub 6/15/2014 21:38",
+		"executeTransaction:" : "klub 6/15/2014 21:38",
+		"freeConnections" : "ul 4/13/2010 23:36",
+		"getConnection" : "klub 5/23/2012 13:34",
+		"initialize" : "ul 8/30/2009 02:56",
+		"log:" : "ul 4/14/2010 00:08",
+		"newListenerConnection" : "klub 9/7/2011 18:32",
+		"releaseAllFreeConnections" : "ul 8/30/2009 02:59",
+		"releaseConnection:" : "klub 7/31/2011 14:49",
+		"releaseSuperfluousFreeConnections" : "ul 8/30/2009 03:01",
+		"releaseUsedConnections" : "ul 8/30/2009 03:01",
+		"usedConnections" : "ul 4/13/2010 23:36",
+		"withConnectionDo:" : "ul 4/14/2010 00:10" } }

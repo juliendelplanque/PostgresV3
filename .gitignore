@@ -1,0 +1,11 @@
+*.changes
+*.image
+*.sources
+*.log
+.DS_Store
+package-cache/
+play-cache/
+/config/database.json
+/config/development.json
+/config/staging.json
+/config/production.json

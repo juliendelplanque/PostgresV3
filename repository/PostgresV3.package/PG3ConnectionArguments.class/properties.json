@@ -1,0 +1,20 @@
+{
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ul 5/14/2010 19:04",
+	"instvars" : [
+		"username",
+		"password",
+		"databaseName",
+		"hostname",
+		"port",
+		"connectTimeout",
+		"automaticStringConversion" ],
+	"name" : "PG3ConnectionArguments",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

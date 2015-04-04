@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PG3AuthenticationGSS",
+	"pools" : [
+		 ],
+	"super" : "PG3AuthenticationMessage",
+	"type" : "normal" }

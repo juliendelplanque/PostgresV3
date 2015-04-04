@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ul 4/14/2010 03:57",
+	"instvars" : [
+		"columnNameDictionary" ],
+	"name" : "PG3Row",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

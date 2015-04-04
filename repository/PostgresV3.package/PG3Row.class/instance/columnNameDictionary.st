@@ -1,0 +1,4 @@
+accessing
+columnNameDictionary
+
+	^columnNameDictionary

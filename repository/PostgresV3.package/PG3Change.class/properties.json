@@ -1,0 +1,15 @@
+{
+	"category" : "PostgresV3-CodeMirror",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"localFunction",
+		"remoteFunction" ],
+	"name" : "PG3Change",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

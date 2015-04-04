@@ -1,0 +1,4 @@
+parameters
+cursorName
+		
+	^'squeakcursor'

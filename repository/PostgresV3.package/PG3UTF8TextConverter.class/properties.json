@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ul 5/14/2010 21:20",
+	"instvars" : [
+		 ],
+	"name" : "PG3UTF8TextConverter",
+	"pools" : [
+		 ],
+	"super" : "PG3TextConverter",
+	"type" : "normal" }

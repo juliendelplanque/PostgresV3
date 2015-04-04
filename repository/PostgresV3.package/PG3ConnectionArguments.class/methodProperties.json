@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"automaticStringConversion" : "kb 9/15/2009 17:41",
+		"automaticStringConversion:" : "ul 5/14/2010 16:29",
+		"connectTimeout" : "ul 2/15/2009 00:41",
+		"connectTimeout:" : "ul 2/15/2009 00:41",
+		"databaseName" : "ul 5/14/2010 16:32",
+		"databaseName:" : "ul 5/14/2010 16:32",
+		"hostname" : "ul 5/14/2010 16:32",
+		"hostname:" : "ul 5/14/2010 16:32",
+		"newConnection" : "ul 5/14/2010 16:29",
+		"password" : "ul 5/14/2010 16:32",
+		"password:" : "ul 5/14/2010 16:33",
+		"port" : "ul 5/14/2010 16:33",
+		"port:" : "ul 5/14/2010 16:33",
+		"username" : "ul 5/14/2010 16:33",
+		"username:" : "ul 5/14/2010 16:34" } }

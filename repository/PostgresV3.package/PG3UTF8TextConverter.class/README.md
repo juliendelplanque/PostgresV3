@@ -1,0 +1,1 @@
+I supposed to be the fast UTF-8 text converter between Postgres and Squeak. I should be benchmarked again, since Squeak's UTF8TextConverter became a lot faster in 4.1.

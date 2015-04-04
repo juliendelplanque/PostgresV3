@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-CodeMirror",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PG3Parser",
+	"pools" : [
+		 ],
+	"super" : "Parser",
+	"type" : "normal" }

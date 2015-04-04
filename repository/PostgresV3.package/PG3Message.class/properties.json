@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connection" ],
+	"name" : "PG3Message",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "PostgresV3-CodeMirror",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"schema",
+		"name",
+		"arguments",
+		"returnType",
+		"body",
+		"language",
+		"volatility",
+		"schemaMirror" ],
+	"name" : "PG3FunctionMirror",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

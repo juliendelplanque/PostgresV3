@@ -1,0 +1,28 @@
+{
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socket",
+		"arguments",
+		"socketReadStream",
+		"state",
+		"processId",
+		"secretKey",
+		"parameters",
+		"states",
+		"resultSets",
+		"transactionState",
+		"currentConverterSelectors",
+		"textConverter",
+		"noticeHandler",
+		"commandCompleteHandler",
+		"currentRowClass" ],
+	"name" : "PG3Connection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

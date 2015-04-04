@@ -1,0 +1,15 @@
+{
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ul 5/14/2010 21:11",
+	"instvars" : [
+		"rowDescription",
+		"rows" ],
+	"name" : "PG3ResultSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

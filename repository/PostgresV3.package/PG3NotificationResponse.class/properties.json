@@ -1,0 +1,16 @@
+{
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"processId",
+		"conditionName",
+		"payload" ],
+	"name" : "PG3NotificationResponse",
+	"pools" : [
+		 ],
+	"super" : "PG3TypedMessage",
+	"type" : "normal" }

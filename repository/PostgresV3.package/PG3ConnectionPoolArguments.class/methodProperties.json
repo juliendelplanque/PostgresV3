@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "ul 8/30/2009 02:57",
+		"maxConnections" : "ul 8/30/2009 03:03",
+		"maxConnections:" : "ul 8/30/2009 03:03",
+		"maxFreeConnections" : "ul 8/30/2009 03:04",
+		"maxFreeConnections:" : "ul 8/30/2009 03:04",
+		"minConnections" : "ul 8/30/2009 03:03",
+		"minConnections:" : "ul 8/30/2009 03:03",
+		"waitTimeout" : "ul 8/30/2009 03:04",
+		"waitTimeout:" : "ul 8/30/2009 03:04" } }

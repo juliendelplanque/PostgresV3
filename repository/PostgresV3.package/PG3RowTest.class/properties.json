@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PG3RowTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

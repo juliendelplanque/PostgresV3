@@ -1,0 +1,16 @@
+{
+	"category" : "PostgresV3-Objects",
+	"classinstvars" : [
+		"all",
+		"nextUpdate",
+		"objectById" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"row" ],
+	"name" : "PG3CachedObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

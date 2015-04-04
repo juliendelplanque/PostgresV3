@@ -1,0 +1,24 @@
+{
+	"category" : "PostgresV3-Core-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"severity",
+		"code",
+		"message",
+		"detail",
+		"hint",
+		"position",
+		"internalPosition",
+		"internalQuery",
+		"where",
+		"file",
+		"routine" ],
+	"name" : "PG3ExceptionResponse",
+	"pools" : [
+		 ],
+	"super" : "PG3TypedMessage",
+	"type" : "normal" }

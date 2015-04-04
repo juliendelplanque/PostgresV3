@@ -1,0 +1,1 @@
+I convert the strings between the Postgres server and Squeak. I'm abstract, see my subclasses for details.

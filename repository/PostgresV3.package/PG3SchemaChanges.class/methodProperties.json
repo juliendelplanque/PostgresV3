@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildWith:" : "kb 8/4/2010 17:27",
+		"buildWith:in:rect:" : "kb 7/30/2010 17:25",
+		"changeMenu:shifted:" : "kb 7/31/2010 16:22",
+		"changes" : "kb 7/30/2010 17:09",
+		"deleteSelectedFromDatabase" : "kb 7/31/2010 16:23",
+		"diffText" : "kb 7/31/2010 15:31",
+		"downloadAll" : "kb 7/31/2010 15:43",
+		"downloadSelected" : "kb 7/31/2010 15:38",
+		"findChanges" : "kb 7/31/2010 15:10",
+		"findMatches" : "klub 5/21/2014 16:48",
+		"refresh" : "kb 7/31/2010 15:16",
+		"schemaMirror:" : "kb 7/31/2010 15:09",
+		"selected" : "kb 7/30/2010 17:25",
+		"selected:" : "kb 7/30/2010 17:28",
+		"uploadAll" : "kb 7/31/2010 15:43",
+		"uploadSelected" : "kb 7/31/2010 15:38" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "PostgresV3-Tests-Pool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PG3TestConnectionPool",
+	"pools" : [
+		 ],
+	"super" : "PG3ConnectionPool",
+	"type" : "normal" }

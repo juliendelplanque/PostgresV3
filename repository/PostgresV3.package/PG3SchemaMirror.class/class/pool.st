@@ -1,0 +1,4 @@
+parameters
+pool
+
+	self subclassResponsibility

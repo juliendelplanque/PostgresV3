@@ -1,0 +1,15 @@
+{
+	"category" : "PostgresV3-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"listenerProcess",
+		"actions" ],
+	"name" : "PG3ListenerConnection",
+	"pools" : [
+		 ],
+	"super" : "PG3Connection",
+	"type" : "normal" }

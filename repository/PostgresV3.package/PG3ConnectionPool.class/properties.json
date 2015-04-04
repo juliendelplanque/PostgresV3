@@ -1,0 +1,18 @@
+{
+	"category" : "PostgresV3-Pool",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		"Instance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"monitor",
+		"freeConnections",
+		"usedConnections",
+		"connectionArguments",
+		"arguments" ],
+	"name" : "PG3ConnectionPool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
