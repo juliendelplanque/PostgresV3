@@ -7,5 +7,5 @@ testParseTimestampWithTimezone
 	) do: [ :each | 
 		self 
 			parse: each first
-			with: #parseTimestampWithTimezoneLength:
+			with: #parseTimestampLength:
 			shouldGive: each second asDateAndTime ]

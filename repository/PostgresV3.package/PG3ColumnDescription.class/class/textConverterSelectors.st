@@ -22,8 +22,8 @@ textConverterSelectors
 			
 			(1082 #parseDateLength:) "date"		
 		
-			(1114 #parseTimestampWithoutTimezoneLength:) "timestamp"		
-			(1184 #parseTimestampWithTimezoneLength:) "timestamptz"
+			(1114 #parseTimestampLength:) "timestamp"		
+			(1184 #parseTimestampLength:) "timestamptz"
 
 			(1700 #parseScaledDecimalLength:) "numeric"
 		
