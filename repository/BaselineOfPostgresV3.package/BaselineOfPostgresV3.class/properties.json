@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPostgresV3",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FrancoisStephany 4/5/2015 18:57",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPostgresV3",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

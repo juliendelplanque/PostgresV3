@@ -14,5 +14,4 @@
 		"testParseScaledDecimal" : "ul 5/29/2009 00:34",
 		"testParseScaledDecimalArray" : "ul 5/29/2009 00:34",
 		"testParseStringArray" : "ul 3/22/2009 22:57",
-		"testParseTimestampWithTimezone" : "FrancoisStephany 4/3/2015 17:11",
-		"testParseTimestampWithoutTimezone" : "klub 7/21/2010 00:59" } }
+		"testParseTimestampWithTimezone" : "FrancoisStephany 4/5/2015 19:16" } }
