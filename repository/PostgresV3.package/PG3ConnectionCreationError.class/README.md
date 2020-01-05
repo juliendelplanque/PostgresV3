@@ -1,0 +1,1 @@
+I am signalled when connection creation fails while in #getConnection.

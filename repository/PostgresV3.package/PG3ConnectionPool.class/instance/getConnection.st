@@ -20,12 +20,11 @@ getConnection
 						usedConnections size < arguments maxConnections ]) ifTrue: [
 							[ freeConnection := self createNewConnection ]
 								on: Error
-								do: [ :error | self log: error messageText ] ] ].
+								do: [ :error | error resignalAs: PG3ConnectionCreationError ] ] ].
 			(freeConnection notNil and: [ 
 				freeConnection isConnected and: [
 					freeConnection isReadyForQuery ] ])
 				ifFalse: [ freeConnection := nil ] ].
 		freeConnection ifNotNil: [ usedConnections add: freeConnection ] ].
-	^freeConnection ifNil: [ 
-		self error: 'Couldn''t get a connection in ', arguments waitTimeout asString, ' milliseconds!'.
-		freeConnection ]
+	^ freeConnection ifNil: [ 
+		PG3ConnectionRetrievalError signal: 'Couldn''t get a connection in ', arguments waitTimeout asString, ' milliseconds!' ]
