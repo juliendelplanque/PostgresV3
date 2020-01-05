@@ -12,7 +12,7 @@ withConnectionDo: aBlock
 				ensure: [
 					connection ifNotNil: [
 						 self releaseConnection: connection ] ] ]
-		on: ConnectionClosed, ConnectionTimedOut 
+		on: ConnectionClosed, ConnectionTimedOut, PG3AbstractPoolException
 		do: [ :err |
 			retriesLeft > 0 ifTrue: [
 				self log: [ 'Error ', (4 - retriesLeft) asString, ': ', err className, ' -> ', err messageText ].

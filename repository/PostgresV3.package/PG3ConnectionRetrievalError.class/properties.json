@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MaxLeske 1/5/2020 18:06",
+	"super" : "PG3AbstractPoolException",
+	"category" : "PostgresV3-Pool-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PG3ConnectionRetrievalError",
+	"type" : "normal"
+}
